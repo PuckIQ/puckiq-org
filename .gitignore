@@ -57,4 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 config.js
+=======
+>>>>>>> 53588f722fd189e754284da8657c358b439d80b5
