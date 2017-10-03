@@ -1,0 +1,23 @@
+{
+  "name": "puckiq-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.1",
+    "handlebars": "^4.0.10",
+    "handlebars-layout": "^0.1.4",
+    "handlebars-registrar": "^1.5.2",
+    "handlebars-utils": "^1.0.4",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "serve-favicon": "^2.4.5"
+  }
+}
